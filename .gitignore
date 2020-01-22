@@ -1,0 +1,11 @@
+**/*.class
+**/*.jar
+**/*.war
+
+**/logs
+**/target
+**/tmp
+**/.classpath
+**/*.project
+**/*.settings
+**/.gitconfig

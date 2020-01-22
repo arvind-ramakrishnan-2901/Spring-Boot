@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.dogbreed.Exception"},{"l":"com.dogbreed.rest"},{"l":"com.dogbreed.rest.controller"},{"l":"com.dogbreed.rest.model"},{"l":"com.dogbreed.rest.response"},{"l":"com.dogbreed.rest.service"},{"l":"com.dogbreed.util"},{"l":"com.test.integration"},{"l":"com.test.util"}]
