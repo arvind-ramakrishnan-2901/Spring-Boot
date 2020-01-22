@@ -1,15 +1,17 @@
 # Spring Boot Rest Controller Example Project
 REST APIs implemented using Spring Boot Rest Controller
 
+### How to initialise the project
+
+* Download the project from here. import as "Existing Maven Projects" in your IDE
+* Once successfully built, run the below file as Java application 
+
 ## Pre-requisites and How to Run
 
 * 1. Substitute the aws access key and secret key value in the properties to your values. The IAM user created
 *    should have write/read access to both S3 and DynamoDB
-* 
-* 2. In the AWS Console, navigate to S3 and create a folder "dogbreed.pictures" in the root AmazonS3 I
 
-* 3. Download the project from here. import as "Existing Maven Projects" in your IDE
-* Once successfully built, run the below file as Java application
+* 2. In the AWS Console, navigate to S3 and create a folder "dogbreed.pictures" in the root AmazonS3 I
 ```
 com.dogbreed.rest.controller.SpringBootMain
 
