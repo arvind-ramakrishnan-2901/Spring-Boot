@@ -9,7 +9,7 @@ REST APIs implemented using Spring Boot Rest Controller
 ## Pre-requisites and How to Run
 
 * 1. Substitute the aws access key and secret key value in the properties to your values. The IAM user created
-*    should have write/read access to both S3 and DynamoDB
+     should have write/read access to both S3 and DynamoDB
 
 * 2. In the AWS Console, navigate to S3 and create a folder "dogbreed.pictures" in the root AmazonS3 I
 ```
@@ -18,7 +18,8 @@ com.dogbreed.rest.controller.SpringBootMain
 All good. You can start calling the below rest api's.
 ```
 
-## REST APIs Endpoints
+## REST API Endpoints
+
 ### Get Dog Breed Details from public url
 
 ```
